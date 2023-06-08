@@ -4,8 +4,8 @@ Why am I doing this? [Just](https://devclass.com/2022/10/17/github-copilot-under
 
 Contact me at...
 - Discord: `I Am God#5347`
-- Codeberg: [`IAGOnDiscord`](https://codeberg.org/IAGOnDiscord)
-- Mastodon: [`IAGoD`](https://wetdry.world/@iagondiscord)
+- Codeberg: [`IAGOnCodeberg`](https://codeberg.org/IAGOnDiscord)
+- Mastodon: [`IAG`](https://wetdry.world/@iagondiscord)
 
 <!---
 IAGOnDiscord/IAGOnDiscord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
